@@ -1,3 +1,6 @@
 # Python_mini_GANs_TF
 
-asassa
+Pequeño mini proyecto para crear tu GAN, requisitos:
+
+- Instalar TensorFlow con gpu
+- Instalar OpenCV
